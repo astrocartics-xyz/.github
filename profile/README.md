@@ -9,8 +9,7 @@ Repositories: https://github.com/orgs/astrocartics-xyz/repositories
 
 # Special Acknowledgements
 
-[Killian Anderson](https://github.com/kandrsn99) Application Programmer Interface Developer
-
+[Killian Anderson](https://github.com/kandrsn99)
 [Charles Law](https://github.com/claw726)
 
 You too may get your name added here for significant contributions through commits by making pull requests.
