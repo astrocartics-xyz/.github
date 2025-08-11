@@ -13,4 +13,6 @@ Repositories: https://github.com/orgs/astrocartics-xyz/repositories
 
 [Charles Law](https://github.com/claw726)
 
+[James Haas](https://github.com/JHaasIII92)
+
 You too may get your name added here for significant contributions through commits by making pull requests.
